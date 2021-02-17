@@ -19,7 +19,7 @@ $ npm install -g @doptools/plugin-local-plugins
 $ @doptools/plugin-local-plugins COMMAND
 running command...
 $ @doptools/plugin-local-plugins (-v|--version|version)
-@doptools/plugin-local-plugins/0.0.0-dev.4 linux-x64 node-v14.15.5
+@doptools/plugin-local-plugins/0.0.0-dev.5 linux-x64 node-v14.15.5
 $ @doptools/plugin-local-plugins --help [COMMAND]
 USAGE
   $ @doptools/plugin-local-plugins COMMAND

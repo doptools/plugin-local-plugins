@@ -1,6 +1,6 @@
 {
   "name": "@doptools/plugin-local-plugins",
-  "version": "0.0.0-dev.4",
+  "version": "0.0.0-dev.5",
   "author": "Dan Erdelt @myrddraall",
   "bugs": "https://github.com/doptools/plugin-local-plugins",
   "dependencies": {
