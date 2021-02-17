@@ -45,7 +45,7 @@
       "init": "./lib/hooks/init/load-local-plugins"
     }
   },
-  "repository": "myrddraall/myplug",
+  "repository": "doptools/plugin-local-plugins",
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint . --ext .ts --config .eslintrc",
